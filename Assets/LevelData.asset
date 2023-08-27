@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63d605b3fbb636a4f96e97ec3df4d31a, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  golfCupSprites:
+  - {fileID: 21300000, guid: 5f5dd1cbcf1ad8e4d8332173c823f2c8, type: 3}
+  - {fileID: 21300000, guid: a4b2df4136457e24bb42db7513d41f0e, type: 3}
